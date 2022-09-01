@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<sup>small words :)</sup>
+``` :) ```
 
 - Bulleted
 - List
