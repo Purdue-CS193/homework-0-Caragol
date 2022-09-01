@@ -1,4 +1,3 @@
-theme: Midnight
 # Tommy's First CS193 Homework
 ``` :) ```
 ### Favorite Things about CS193
